@@ -1,0 +1,15 @@
+img{
+    width:7cm;
+    height:5cm;
+}
+.img1, .email1{
+    text-align: center;
+}
+h1, h2, h3, p{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+body {
+    background-color: coral;
+    cursor: wait;
+}
